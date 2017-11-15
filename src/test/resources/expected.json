@@ -1,0 +1,17 @@
+[ {
+  "uuid" : "some uuid",
+  "timestamp" : "2017-09-11T14:45:55.033",
+  "sessionId" : "some session id",
+  "namespace" : "NOT USED",
+  "deployment" : "NOT USED",
+  "userId" : "some user id",
+  "detail" : "{\n          \"nino\": \"AN123456C\",\n          \"match\": \"yes\"\n         }"
+}, {
+  "uuid" : "some uuid",
+  "timestamp" : "2017-09-11T14:45:48.094",
+  "sessionId" : "some session id",
+  "namespace" : "NOT USED",
+  "deployment" : "NOT USED",
+  "userId" : "some user id",
+  "detail" : "{\n         \"nino\": \"JD123456C\",\n         \"match\": \"yes\"\n        }"
+} ]
