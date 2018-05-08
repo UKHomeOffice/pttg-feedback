@@ -1,2 +1,2 @@
 # pttg-feedback
-restful service for persistence of feedback data
+Restful service for persistence of feedback data.
